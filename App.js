@@ -4,7 +4,6 @@ import HEREMap, { Marker, Circle } from "react-here-maps";
 
 export default class Map extends Component {
     render() {
-        // const center = { lat: 110.3398252, lng: -7.803164 };
         const center = { lat: -7.803164, lng: 110.3398252 };
     
         return (
